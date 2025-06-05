@@ -46,6 +46,15 @@ export default function AgentBuilder() {
           name="description"
           content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity."
         />
+        <meta property="og:title" content="AI Agent Builder - NexusPrime Innovations" />
+        <meta property="og:description" content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.nexusprime.com/products/agent-builder" />
+        <meta property="og:image" content="https://www.nexusprime.com/images/agent-builder.webp" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="AI Agent Builder - NexusPrime Innovations" />
+        <meta name="twitter:description" content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity." />
+        <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-builder.webp" />
       </Head>
 
       {/* Hero Section */}
