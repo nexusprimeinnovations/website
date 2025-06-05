@@ -46,6 +46,15 @@ export default function CodeEditor() {
           name="description"
           content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance."
         />
+        <meta property="og:title" content="AI Code Editor - NexusPrime Innovations" />
+        <meta property="og:description" content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.nexusprime.com/products/code-editor" />
+        <meta property="og:image" content="https://www.nexusprime.com/images/code-editor.webp" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="AI Code Editor - NexusPrime Innovations" />
+        <meta name="twitter:description" content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance." />
+        <meta name="twitter:image" content="https://www.nexusprime.com/images/code-editor.webp" />
       </Head>
 
       {/* Hero Section */}

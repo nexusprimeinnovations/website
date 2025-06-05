@@ -46,6 +46,15 @@ export default function AgentPlatform() {
           name="description"
           content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics."
         />
+        <meta property="og:title" content="Agent Platform - NexusPrime Innovations" />
+        <meta property="og:description" content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.nexusprime.com/products/agent-platform" />
+        <meta property="og:image" content="https://www.nexusprime.com/images/agent-platform.webp" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Agent Platform - NexusPrime Innovations" />
+        <meta name="twitter:description" content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics." />
+        <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-platform.webp" />
       </Head>
 
       {/* Hero Section */}
