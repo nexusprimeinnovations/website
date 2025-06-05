@@ -1,5 +1,5 @@
 import Container from '../ui/Container'
-import { FadeIn } from '../ui/FadeIn'
+import FadeIn from '../ui/FadeIn'
 import { Card } from '../ui/Card'
 import { 
   Zap, 

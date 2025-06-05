@@ -1,7 +1,7 @@
 import { Button } from '../ui/Button'
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '../ui/Card'
 import Container from '../ui/Container'
-import { FadeIn } from '../ui/FadeIn'
+import FadeIn from '../ui/FadeIn'
 import { Code, Zap, Sparkles, ArrowRight, Bot, Settings, Terminal } from 'lucide-react'
 
 const products = [

@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Container from '../ui/Container'
-import { FadeIn } from '../ui/FadeIn'
+import FadeIn from '../ui/FadeIn'
 import { Card } from '../ui/Card'
 import { Star, Quote, Sparkles } from 'lucide-react'
 

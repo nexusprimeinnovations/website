@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Button } from '../ui/Button'
 import Container from '../ui/Container'
-import { FadeIn } from '../ui/FadeIn'
+import FadeIn from '../ui/FadeIn'
 import { ArrowRight, Sparkles, Zap, Code } from 'lucide-react'
 
 export default function Hero() {

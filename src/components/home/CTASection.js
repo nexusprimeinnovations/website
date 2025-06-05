@@ -1,6 +1,6 @@
 import { Button } from '../ui/Button'
 import Container from '../ui/Container'
-import { FadeIn } from '../ui/FadeIn'
+import FadeIn from '../ui/FadeIn'
 import { ArrowRight, Sparkles, Zap, Users, TrendingUp } from 'lucide-react'
 
 export default function CTASection() {
