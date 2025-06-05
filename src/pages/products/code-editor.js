@@ -55,6 +55,23 @@ export default function CodeEditor() {
         <meta name="twitter:title" content="AI Code Editor - NexusPrime Innovations" />
         <meta name="twitter:description" content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance." />
         <meta name="twitter:image" content="https://www.nexusprime.com/images/code-editor.webp" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Product",
+              "name": "AI Code Editor - NexusPrime Innovations",
+              "description": "Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance.",
+              "image": "https://www.nexusprime.com/images/code-editor.webp",
+              "brand": {
+                "@type": "Brand",
+                "name": "NexusPrime Innovations"
+              },
+              "url": "https://www.nexusprime.com/products/code-editor"
+            })
+          }}
+        />
       </Head>
 
       {/* Hero Section */}

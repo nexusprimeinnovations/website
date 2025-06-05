@@ -55,6 +55,24 @@ export default function AgentBuilder() {
         <meta name="twitter:title" content="AI Agent Builder - NexusPrime Innovations" />
         <meta name="twitter:description" content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity." />
         <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-builder.webp" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Product",
+              "name": "AI Agent Builder - NexusPrime Innovations",
+              "description": "Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity.",
+              "image": "https://www.nexusprime.com/images/agent-builder.webp",
+              "brand": {
+                "@type": "Brand",
+                "name": "NexusPrime Innovations"
+              },
+              "url": "https://www.nexusprime.com/products/agent-builder"
+              // If offers, reviews, or aggregateRating were available, they would be added here.
+            })
+          }}
+        />
       </Head>
 
       {/* Hero Section */}

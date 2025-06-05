@@ -55,6 +55,23 @@ export default function AgentPlatform() {
         <meta name="twitter:title" content="Agent Platform - NexusPrime Innovations" />
         <meta name="twitter:description" content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics." />
         <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-platform.webp" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Product",
+              "name": "Agent Platform - NexusPrime Innovations",
+              "description": "A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics.",
+              "image": "https://www.nexusprime.com/images/agent-platform.webp",
+              "brand": {
+                "@type": "Brand",
+                "name": "NexusPrime Innovations"
+              },
+              "url": "https://www.nexusprime.com/products/agent-platform"
+            })
+          }}
+        />
       </Head>
 
       {/* Hero Section */}
