@@ -1,5 +1,6 @@
 import Link from 'next/link'
-import { Zap, Mail, MapPin, Phone } from 'lucide-react'
+import Image from 'next/image'
+import { Mail, MapPin, Phone } from 'lucide-react'
 
 const navigation = {
   products: [
@@ -69,11 +70,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 lg:gap-12">
           {/* Company info */}
           <div className="lg:col-span-2">
-            <div className="flex items-center gap-2 mb-6">
-              <div className="w-8 h-8 bg-gradient-to-br from-primary-600 to-primary-700 rounded-lg flex items-center justify-center">
-                <Zap className="w-5 h-5 text-white" />
-              </div>
-              <span className="text-xl font-bold">NexusPrime</span>
+            <div className="flex items-center gap-3 mb-6">
+              <Image
+                src="/images/logo-dark.svg"
+                alt="NexusPrime"
+                width={160}
+                height={40}
+                className="h-9 w-auto"
+              />
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
               Building the future of AI agents. Empower your applications with intelligent automation and scale with confidence.
@@ -81,7 +85,7 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-sm text-gray-300">
                 <Mail className="w-4 h-4 text-primary-400" />
-                hello@nexusprime.ai
+                hello@nexusprimeinnovations.com
               </div>
               <div className="flex items-center gap-3 text-sm text-gray-300">
                 <Phone className="w-4 h-4 text-primary-400" />
@@ -156,7 +160,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row md:items-center md:justify-between">
             <div className="mb-6 md:mb-0">
               <h3 className="text-lg font-semibold text-white mb-2">Stay updated</h3>
-              <p className="text-gray-300 text-sm">Get the latest news and updates from NexusPrime.</p>
+              <p className="text-gray-300 text-sm">Get the latest news and updates from NexusPrime Innovations.</p>
             </div>
             <div className="flex gap-3">
               <input

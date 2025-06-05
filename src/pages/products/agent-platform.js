@@ -49,12 +49,12 @@ export default function AgentPlatform() {
         <meta property="og:title" content="Agent Platform - NexusPrime Innovations" />
         <meta property="og:description" content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nexusprime.com/products/agent-platform" />
-        <meta property="og:image" content="https://www.nexusprime.com/images/agent-platform.webp" />
+        <meta property="og:url" content="https://nexusprimeinnovations.com/products/agent-platform" />
+        <meta property="og:image" content="https://nexusprimeinnovations.com/images/agent-platform.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Agent Platform - NexusPrime Innovations" />
         <meta name="twitter:description" content="A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics." />
-        <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-platform.webp" />
+        <meta name="twitter:image" content="https://nexusprimeinnovations.com/images/agent-platform.webp" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -63,12 +63,12 @@ export default function AgentPlatform() {
               "@type": "Product",
               "name": "Agent Platform - NexusPrime Innovations",
               "description": "A scalable platform to run and manage AI agents. Monitor performance, scale resources, and optimize operations with real-time analytics.",
-              "image": "https://www.nexusprime.com/images/agent-platform.webp",
+              "image": "https://nexusprimeinnovations.com/images/agent-platform.webp",
               "brand": {
                 "@type": "Brand",
                 "name": "NexusPrime Innovations"
               },
-              "url": "https://www.nexusprime.com/products/agent-platform"
+              "url": "https://nexusprimeinnovations.com/products/agent-platform"
             })
           }}
         />
@@ -204,7 +204,7 @@ export default function AgentPlatform() {
                 Ready to scale your AI agents?
               </h2>
               <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-                Join enterprise teams who trust NexusPrime to power their AI agent infrastructure.
+                Join enterprise teams who trust NexusPrime Innovations to power their AI agent infrastructure.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a

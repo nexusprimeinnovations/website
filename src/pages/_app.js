@@ -15,14 +15,14 @@ function MyApp({ Component, pageProps }) {
                 {
                   "@type": "Organization",
                   "name": "NexusPrime Innovations",
-                  "url": "https://www.nexusprime.com",
-                  "logo": "https://www.nexusprime.com/images/logo.svg",
+                  "url": "https://nexusprimeinnovations.com",
+                  "logo": "https://nexusprimeinnovations.com/images/logo.svg",
                   "sameAs": [] // Placeholder for social media links
                 },
                 {
                   "@type": "WebSite",
                   "name": "NexusPrime Innovations",
-                  "url": "https://www.nexusprime.com"
+                  "url": "https://nexusprimeinnovations.com"
                   // potentialAction could be added here if a site search exists
                 }
               ]

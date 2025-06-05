@@ -32,7 +32,7 @@ export default function Hero() {
           </h1>
           
           <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-600 leading-8">
-            Empower your applications with intelligent AI agents. Build, deploy, and scale with NexusPrime's comprehensive suite of AI development tools.
+            Empower your applications with intelligent AI agents. Build, deploy, and scale with NexusPrime Innovations' comprehensive suite of AI development tools.
           </p>
           
           <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">

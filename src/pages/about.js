@@ -39,12 +39,12 @@ export default function About() {
         <meta property="og:title" content="About Us - NexusPrime Innovations" />
         <meta property="og:description" content="Learn about NexusPrime Innovations, our mission to democratize AI, and the team building the future of intelligent automation." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nexusprime.com/about" />
-        <meta property="og:image" content="https://www.nexusprime.com/images/logo.svg" />
+        <meta property="og:url" content="https://nexusprimeinnovations.com/about" />
+        <meta property="og:image" content="https://nexusprimeinnovations.com/images/logo.svg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="About Us - NexusPrime Innovations" />
         <meta name="twitter:description" content="Learn about NexusPrime Innovations, our mission to democratize AI, and the team building the future of intelligent automation." />
-        <meta name="twitter:image" content="https://www.nexusprime.com/images/logo.svg" />
+        <meta name="twitter:image" content="https://nexusprimeinnovations.com/images/logo.svg" />
       </Head>
 
       {/* Hero Section */}

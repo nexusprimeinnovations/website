@@ -49,12 +49,12 @@ export default function AgentBuilder() {
         <meta property="og:title" content="AI Agent Builder - NexusPrime Innovations" />
         <meta property="og:description" content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nexusprime.com/products/agent-builder" />
-        <meta property="og:image" content="https://www.nexusprime.com/images/agent-builder.webp" />
+        <meta property="og:url" content="https://nexusprimeinnovations.com/products/agent-builder" />
+        <meta property="og:image" content="https://nexusprimeinnovations.com/images/agent-builder.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="AI Agent Builder - NexusPrime Innovations" />
         <meta name="twitter:description" content="Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity." />
-        <meta name="twitter:image" content="https://www.nexusprime.com/images/agent-builder.webp" />
+        <meta name="twitter:image" content="https://nexusprimeinnovations.com/images/agent-builder.webp" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -63,12 +63,12 @@ export default function AgentBuilder() {
               "@type": "Product",
               "name": "AI Agent Builder - NexusPrime Innovations",
               "description": "Build custom AI agents with our intuitive platform. Design, train, and deploy agents for any use case with drag-and-drop simplicity.",
-              "image": "https://www.nexusprime.com/images/agent-builder.webp",
+              "image": "https://nexusprimeinnovations.com/images/agent-builder.webp",
               "brand": {
                 "@type": "Brand",
                 "name": "NexusPrime Innovations"
               },
-              "url": "https://www.nexusprime.com/products/agent-builder"
+              "url": "https://nexusprimeinnovations.com/products/agent-builder"
               // If offers, reviews, or aggregateRating were available, they would be added here.
             })
           }}
@@ -162,7 +162,7 @@ export default function AgentBuilder() {
                 Ready to build your first AI agent?
               </h2>
               <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-                Join thousands of developers who are already building the future with NexusPrime's AI Agent Builder.
+                Join thousands of developers who are already building the future with NexusPrime Innovations' AI Agent Builder.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a

@@ -49,12 +49,12 @@ export default function CodeEditor() {
         <meta property="og:title" content="AI Code Editor - NexusPrime Innovations" />
         <meta property="og:description" content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nexusprime.com/products/code-editor" />
-        <meta property="og:image" content="https://www.nexusprime.com/images/code-editor.webp" />
+        <meta property="og:url" content="https://nexusprimeinnovations.com/products/code-editor" />
+        <meta property="og:image" content="https://nexusprimeinnovations.com/images/code-editor.webp" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="AI Code Editor - NexusPrime Innovations" />
         <meta name="twitter:description" content="Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance." />
-        <meta name="twitter:image" content="https://www.nexusprime.com/images/code-editor.webp" />
+        <meta name="twitter:image" content="https://nexusprimeinnovations.com/images/code-editor.webp" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -63,12 +63,12 @@ export default function CodeEditor() {
               "@type": "Product",
               "name": "AI Code Editor - NexusPrime Innovations",
               "description": "Intelligent code editing with AI-powered suggestions, refactoring, and documentation generation. Boost your productivity with smart assistance.",
-              "image": "https://www.nexusprime.com/images/code-editor.webp",
+              "image": "https://nexusprimeinnovations.com/images/code-editor.webp",
               "brand": {
                 "@type": "Brand",
                 "name": "NexusPrime Innovations"
               },
-              "url": "https://www.nexusprime.com/products/code-editor"
+              "url": "https://nexusprimeinnovations.com/products/code-editor"
             })
           }}
         />

@@ -40,7 +40,7 @@ export default function CTASection() {
             </h2>
             
             <p className="mx-auto max-w-2xl text-xl leading-8 text-primary-100 mb-10">
-              Join thousands of developers building intelligent AI agents with NexusPrime. 
+              Join thousands of developers building intelligent AI agents with NexusPrime Innovations. 
               Start your journey today and transform how you build applications.
             </p>
 

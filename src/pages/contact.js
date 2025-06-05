@@ -10,8 +10,8 @@ export default function Contact() {
       icon: Mail,
       title: 'Email Us',
       description: 'Get in touch via email for general inquiries',
-      contact: 'hello@nexusprime.ai',
-      action: 'mailto:hello@nexusprime.ai'
+      contact: 'hello@nexusprimeinnovations.com',
+      action: 'mailto:hello@nexusprimeinnovations.com'
     },
     {
       icon: Phone,
@@ -40,12 +40,12 @@ export default function Contact() {
         <meta property="og:title" content="Contact Us - NexusPrime Innovations" />
         <meta property="og:description" content="Get in touch with NexusPrime Innovations. Contact our team for support, sales inquiries, or to learn more about our AI platform." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.nexusprime.com/contact" />
-        <meta property="og:image" content="https://www.nexusprime.com/images/logo.svg" />
+        <meta property="og:url" content="https://nexusprimeinnovations.com/contact" />
+        <meta property="og:image" content="https://nexusprimeinnovations.com/images/logo.svg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Contact Us - NexusPrime Innovations" />
         <meta name="twitter:description" content="Get in touch with NexusPrime Innovations. Contact our team for support, sales inquiries, or to learn more about our AI platform." />
-        <meta name="twitter:image" content="https://www.nexusprime.com/images/logo.svg" />
+        <meta name="twitter:image" content="https://nexusprimeinnovations.com/images/logo.svg" />
       </Head>
 
       {/* Hero Section */}

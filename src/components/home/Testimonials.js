@@ -6,7 +6,7 @@ import { Star, Quote, Sparkles } from 'lucide-react'
 
 const testimonials = [
   {
-    content: 'NexusPrime has revolutionized how we build and deploy AI agents. The platform is intuitive, powerful, and has cut our development time in half.',
+          content: 'NexusPrime Innovations has revolutionized how we build and deploy AI agents. The platform is intuitive, powerful, and has cut our development time in half.',
     author: {
       name: 'Sarah Chen',
       role: 'CTO at TechForward',
@@ -26,7 +26,7 @@ const testimonials = [
     company: 'InnovateCo',
   },
   {
-    content: 'We\'ve seen a 3x improvement in our development speed since adopting NexusPrime\'s Agent Platform. The ROI has been incredible.',
+          content: 'We\'ve seen a 3x improvement in our development speed since adopting NexusPrime Innovations\' Agent Platform. The ROI has been incredible.',
     author: {
       name: 'Emily Thompson',
       role: 'Product Manager at FutureScale',
@@ -66,7 +66,7 @@ export default function Testimonials() {
               Trusted by developers worldwide
             </h2>
             <p className="text-lg leading-8 text-gray-600">
-              See what our customers are saying about NexusPrime's products and how we're helping them build the future.
+                              See what our customers are saying about NexusPrime Innovations' products and how we're helping them build the future.
             </p>
           </div>
         </FadeIn>
