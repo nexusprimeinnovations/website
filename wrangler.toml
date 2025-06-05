@@ -1,0 +1,11 @@
+name = "nexusprime-website"
+compatibility_date = "2024-01-15"
+
+[env.production]
+name = "nexusprime-website"
+
+[env.preview]
+name = "nexusprime-website-preview"
+
+# For Cloudflare Pages
+pages_build_output_dir = "out" 
