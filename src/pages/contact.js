@@ -236,8 +236,8 @@ export default function Contact() {
                       <h4 className="font-semibold text-gray-900">Office</h4>
                       <p className="text-gray-600">
                         123 Innovation Drive<br />
-                        San Francisco, CA 94105<br />
-                        United States
+                        Mumbai, Maharashtra 400001<br />
+                        India
                       </p>
                     </div>
                   </div>
