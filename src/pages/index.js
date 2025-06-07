@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Hero from '../components/home/Hero'
-import Features from '../components/home/Features'
+import Solutions from '../components/home/Solutions'
 import ProductsOverview from '../components/home/ProductsOverview'
 import CTASection from '../components/home/CTASection'
 import Testimonials from '../components/home/Testimonials'
@@ -27,7 +27,7 @@ export default function Home() {
 
       <Hero />
       <ProductsOverview />
-      <Features />
+      <Solutions />
       <Testimonials />
       <CTASection />
     </>
