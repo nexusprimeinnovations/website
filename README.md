@@ -23,7 +23,6 @@ Visit the live website: [nexusprimeinnovations.com](https://nexusprimeinnovation
 - Responsive design that works on all devices
 - Beautiful gradient backgrounds and animations
 - Clean, professional UI with Tailwind CSS
-- Dark/light logo variants for different backgrounds
 
 ### 🧭 **Navigation**
 - Sticky header with smooth scrolling
